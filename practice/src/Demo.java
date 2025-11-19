@@ -17,5 +17,11 @@ public class Demo {
          */
         num1 = 1;
         num2 = 2;
+
+        /**
+         * add 2 nums together
+         * @NikkyGonzales
+         */
+        total = num1 + num2;
     }
 }
