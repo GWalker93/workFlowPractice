@@ -23,5 +23,11 @@ public class Demo {
          * @NikkyGonzales
          */
         total = num1 + num2;
+
+        /**
+         * printing total to screen
+         * @ChrisHogan
+         */
+        System.out.println(total);
     }
 }
